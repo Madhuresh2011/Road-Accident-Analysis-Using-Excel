@@ -1,6 +1,6 @@
 # Road Accident Analysis Using Excel
 
-![Excel]![Screenshot 2025-01-17 174422](https://github.com/user-attachments/assets/1099d713-0787-4e7e-8fab-c50007a439cd)
+[Screenshot 2025-01-17 174422](https://github.com/user-attachments/assets/1099d713-0787-4e7e-8fab-c50007a439cd)
 
 
 ## Project Description
