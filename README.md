@@ -6,9 +6,6 @@
 
 A major issue that has an impact on communities all across the world is road safety. In this project I have created a Road Accident Analytics Dashboard, a powerful tool designed to analyse and visualize road accident data for the years 2021 and 2022. This Excel-based dashboard empowers stakeholders with valuable insights to make data-driven decisions and pave the way towards safer roads.
 
-## Tech Stack Used 
-
-![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
 
 ## Skills showcased in this Project
 
@@ -31,7 +28,7 @@ Clients want to create a road accident dashboard for the years 2021 and 2022 so 
 
 ## Data Sourcing
 
-The dataset can be found [here](https://github.com/tusharjkhapre/Road-Accident-Analysis-Dashboard-Using-Excel/blob/main/Raw.xlsx) .
+The dataset can be found [here](https://github.com/Madhuresh2011/Road-Accident-Analysis-Using-Excel/blob/main/Road%20Accident%20Data.xlsx) .
 
 ## Data Cleaning and Transformation
 
@@ -55,7 +52,8 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 
 Below is a snippet of the final dashboard in Excel.
 
-![Road Accident Dashboard](https://github.com/tusharjkhapre/Road-Accident-Analysis-Dashboard-Using-Excel/blob/main/Dashboard.png)
+![Road Accident Dashboard]![Screenshot 2025-01-16 200735](https://github.com/user-attachments/assets/f6f42418-971d-42c0-90c7-4f09f796b954)
+
 
 
 ## Key Insights
@@ -88,6 +86,6 @@ Below is a snippet of the final dashboard in Excel.
 
 This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike. 
 
-Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on (https://www.linkedin.com/in/tushar-khapre-973b03225/)
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on (https://www.linkedin.com/in/madhuresh-raj-867b49258/)
 
  
